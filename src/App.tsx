@@ -33,7 +33,7 @@ const INITIAL_TEAMS: Team[] = [
   },
   {
     id: '3',
-    name: 'Sample Drink',
+    name: 'PULSE BOOST',
     serviceName: '파우더 형태의 기능성 음료',
     description: '',
     landingUrl: 'https://gaming-supplement-28.aura.build/',
