@@ -33,11 +33,11 @@ const INITIAL_TEAMS: Team[] = [
   },
   {
     id: '3',
-    name: 'Berry Seoul',
-    serviceName: '외국인을 타겟으로 한 한국 대표 디저트 기념품',
+    name: 'Sample Drink',
+    serviceName: '파우더 형태의 기능성 음료',
     description: '',
-    landingUrl: 'https://example.com/berryseoul',
-    imageUrl: 'https://picsum.photos/seed/berry/1280/720',
+    landingUrl: 'https://gaming-supplement-28.aura.build/',
+    imageUrl: 'https://storage.googleapis.com/inventionlab-homepage-assets/%E1%84%80%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%85%E1%85%AD.png',
   },
   {
     id: '4',
